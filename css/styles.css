@@ -251,7 +251,8 @@ img {
   flex-direction: column;
 }
 
-.team-img {
+.worker {
+  padding: 32px 0;
 }
 
 .subject-subtitle {
@@ -264,6 +265,7 @@ img {
   color: #2e2f42;
   margin-top: 32px;
   margin-bottom: 8px;
+  text-align: center;
 }
 .subject-subtitle-text {
   font-family: 'Roboto', sans-serif;
@@ -273,9 +275,6 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
   margin-bottom: 32px;
-}
-
-.team {
   text-align: center;
 }
 
