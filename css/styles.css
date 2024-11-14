@@ -265,7 +265,7 @@ img {
   width: 264px;
 }
 
-.subject-subtitle .team {
+.subject-subtitle-team {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -277,7 +277,7 @@ img {
   margin-bottom: 8px;
   text-align: center;
 }
-.subject-subtitle-text .team {
+.subject-subtitle-text-team {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -308,6 +308,28 @@ img {
   padding: 32px 16px;
   width: 360px;
   border-top: none;
+}
+
+.subject-subtitle {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.subject-subtitle-text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-align: center;
 }
 
 .footer-page {
