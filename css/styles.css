@@ -265,7 +265,11 @@ img {
   width: 264px;
 }
 
-.subject-subtitle-team {
+.worker {
+  padding: 32px 16px;
+}
+
+/* .subject-subtitle-team {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -276,8 +280,8 @@ img {
   margin-top: 32px;
   margin-bottom: 8px;
   text-align: center;
-}
-.subject-subtitle-text-team {
+} */
+/* .subject-subtitle-text-team {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -286,7 +290,7 @@ img {
   color: #434455;
   margin-bottom: 32px;
   text-align: center;
-}
+} */
 
 .portfolio-page {
 }
